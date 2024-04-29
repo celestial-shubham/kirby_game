@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "level-1.json",
     "expandedProjectPaths": [
     ],
     "fileStates": {
@@ -12,15 +12,15 @@
         },
         "/Users/zupee/kirby_game/kirby-like.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 1.291,
+            "scaleInDock": 2.7622,
             "scaleInEditor": 1
         },
         "level-1.json": {
-            "scale": 0.7409,
-            "selectedLayer": 0,
+            "scale": 19.0714,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 175.4622756107437,
-                "y": 379.94331218787966
+                "x": 313.2963495076397,
+                "y": 259.7606887800581
             }
         },
         "level-1.json#kirby-like": {
@@ -34,11 +34,13 @@
     "map.tileWidth": 16,
     "map.width": 27,
     "openFiles": [
+        "/Users/zupee/kirby_game/kirby-like.tsx",
+        "level-1.json"
     ],
     "project": "kirby.tiled-project",
     "recentFiles": [
-        "level-1.json",
-        "/Users/zupee/kirby_game/kirby-like.tsx"
+        "/Users/zupee/kirby_game/kirby-like.tsx",
+        "level-1.json"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
