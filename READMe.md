@@ -11,9 +11,15 @@ download the project
 
 in progress : 
 adding new level-2 ! 
+
 fixing some exiting bugs , 
 
 
+[instructions to Play](https://celestial-shubham.itch.io/kirby-sample-game)
+
+https://github.com/celestial-shubham/kirby_game/assets/47259965/6399cbeb-8f1c-438f-9f22-bd9e81eebfa9
+
+assets : [link](https://jslegend.itch.io/kirby-like-platformer-asset-pack)
 
 
 !! if found any bugs , please raise the issue , with the scenario and steps to replicate !! 
